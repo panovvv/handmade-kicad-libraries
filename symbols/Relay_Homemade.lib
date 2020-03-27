@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# SPDT_Relay
+# SPDT_RELAY
 #
-DEF SPDT_Relay K 0 40 Y Y 1 F N
+DEF SPDT_RELAY K 0 40 Y Y 1 F N
 F0 "K" 450 150 50 H V L CNN
-F1 "SPDT_Relay" 450 50 50 H V L CNN
+F1 "SPDT_RELAY" 450 50 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW

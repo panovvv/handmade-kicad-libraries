@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP SSD1306
-D Monochrome 0.96" OLED Graphics Display 128x64px,  I2C 3.3V to 5V VDD
+D Monochrome 0.96" OLED Graphics Display 128x64px, I2C 3.3V to 5V VDD
 K display LCD graphic
 F https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf
 $ENDCMP

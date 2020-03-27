@@ -1,5 +1,5 @@
-(module Rotation_CCW_Silkscreen (layer F.Cu) (tedit 5E7DFCE5)
-  (descr "You can use this e.g. to indicate that the motor connected to these terminals is supposed to rotate counterclockwise.")
+(module Rotation_CCW_Silkscreen (layer F.Cu) (tedit 5E7E13B5)
+  (descr "Silkscreen on top. You can use this e.g. to indicate that the motor connected to these terminals is supposed to rotate in a specific direction.")
   (tags silkscreen)
   (fp_text reference D (at -1.27 -3.81) (layer Eco1.User) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))

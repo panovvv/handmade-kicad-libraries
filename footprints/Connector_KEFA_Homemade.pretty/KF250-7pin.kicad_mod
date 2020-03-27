@@ -1,5 +1,5 @@
-(module KF250-7pin (layer F.Cu) (tedit 577A5341)
-  (descr "KF250 Spring cage connector 3.5mm pitch")
+(module KF250-7pin (layer F.Cu) (tedit 5E7E104D)
+  (descr "KF250 Spring cage connector, 3.5mm pitch")
   (tags KF250)
   (fp_text reference JP** (at 0 5.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

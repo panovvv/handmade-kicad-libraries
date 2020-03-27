@@ -1,4 +1,6 @@
-(module Barrel_Jack_Positive_Center_Silkscreen (layer F.Cu) (tedit 5E7DFCEC)
+(module Barrel_Jack_Positive_Center_Silkscreen (layer F.Cu) (tedit 5E7E13CB)
+  (descr "Silkscreen on top. Show the barrel jack polarity simply on the PCB itself! ")
+  (tags silkscreen)
   (fp_text reference D (at 0 -2.54) (layer Eco1.User) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )

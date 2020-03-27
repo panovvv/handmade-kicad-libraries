@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP SPDT_Relay
-D Generic SPDT relay. SPDT (Single pole double throw) means it can switch one input terminal between two outout terminals
+$CMP SPDT_RELAY
+D Generic SPDT relay. SPDT (Single pole double throw) means it can switch one input terminal between two output terminals
 K spdt relay
 $ENDCMP
 #

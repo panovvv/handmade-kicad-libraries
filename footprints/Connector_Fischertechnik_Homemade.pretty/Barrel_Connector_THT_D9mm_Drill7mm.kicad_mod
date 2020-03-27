@@ -1,0 +1,15 @@
+(module Barrel_Connector_THT_D9mm_Drill7mm (layer F.Cu) (tedit 5E7E0ECD)
+  (descr "Fischertechnik produces some nice training models that look essentially like an industry automation piece in miniature. We used those to teach students industrial programming. The connectors that hardware from these kits use look like a tiny metal stick (https://content.ugfischer.com/cbfiles/fischer/Zulassungen/ft/37783-Mini-switch.pdf), and I needed to interface them to my PCB. Turns out an ordinary jeans rivet can act as a receptable for them, and can be soldered on PCBs! Footprint in question can accept exactly this kind of rivet, hole diameter is 7mm.")
+  (fp_text reference REF** (at 0 5.08) (layer Eco1.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value C (at 0 -6.35) (layer Eco1.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 9 9) (drill 7) (layers *.Cu *.Mask F.SilkS))
+  (model /home/vadim/Yandex.Disk/kicad/packages3d/fischer_barrel_female.wrl
+    (offset (xyz 0 0 -2.539999961853027))
+    (scale (xyz 0.1 0.1 0.1))
+    (rotate (xyz 0 0 0))
+  )
+)
