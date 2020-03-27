@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KEYPAD3X4
+D Any keypad with 3 columns and 4 rows.
+K keypad 3x4
+F https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/1824_Web.pdf
+$ENDCMP
+#
+$CMP KEYPAD4X4
+D Any keypad with 4 columns and 4 rows.
+F https://www.parallax.com/sites/default/files/downloads/27899-4x4-Matrix-Membrane-Keypad-v1.2.pdf
+$ENDCMP
+#
+#End Doc Library
