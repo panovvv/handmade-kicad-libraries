@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PPD42
+D Optical air quality sensor. Measures the particulate matter level in air by counting Low Pulse Occupancy time.
+K shinyei dust lpo particulate sensor ppd42 ppd42ns ppd42nj
+F https://www.mouser.com/datasheet/2/744/Seeed_101020012-1217636.pdf
+$ENDCMP
+#
+#End Doc Library

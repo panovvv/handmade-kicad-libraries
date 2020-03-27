@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS22960
+D 2-ch, 1.62 V to 5.5 V, 0.5A, 435mΩ load switch with output discharge
+K high-side power distribution switch
+F http://www.ti.com/lit/ds/symlink/tps22960.pdf
+$ENDCMP
+#
+#End Doc Library
