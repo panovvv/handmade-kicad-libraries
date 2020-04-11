@@ -1,4 +1,4 @@
-# Handmade KiCAD libraries
+﻿# Handmade KiCAD libraries
 Custom KiCAD symbols, footprints and 3D models.
 
 ## Symbols
@@ -29,7 +29,10 @@ Custom KiCAD symbols, footprints and 3D models.
     for them, and can be soldered on PCBs! Footprint in question can accept
     exactly this kind of rivet, hole diameter is 7mm.
 * Connector_KEFA_Homemade.pretty
-    * [KF250-[N]pin](): KF250 Spring cage connector, 3.5mm pitch
+    * [KF250-[N]pin](http://en.cnkefa.com/index.php?c=product&id=221): Through hole spring cage connector,
+    1x2, 1x3, 1x7 and 1x20, 3.5mm pitch.
+    * [KF141V-6P_P2.54mm](http://en.cnkefa.com/index.php?c=product&id=212): Through hole spring cage connector,
+    1x06, 2.54mm pitch, double row with pin pairs internally connected in a column.
 * Relay_THT_Homemade.pretty
     * [HUIKE_HK4100F](https://img.ozdisan.com/ETicaret_Dosya/445413_4369639.pdf):
     Subminiature signal relay, SPDT, 3A switching capability, 5V coil
