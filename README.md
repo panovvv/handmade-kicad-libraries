@@ -55,5 +55,8 @@ operating systems.
 * Connector_Fischertechnik_Homemade.3dshapes
     * Barrel_Connector_THT_D9mm_Drill7mm
 * Connector_KEFA_Homemade.3dshapes
-    * KF250-[N]pin
+    * [KF250-[N]pin](http://en.cnkefa.com/index.php?c=product&id=221): the models are just something similar-looking
+    with compatible footprint I found online.
+    * [KF141V-6P_P2.54mm](http://en.cnkefa.com/index.php?c=product&id=212): Courtesy of [Serj Minin](https://grabcad.com/library/pcb-spring-terminal-blocks-dg-141v-kf141v-2-54-1),
+    I just converted SLDPRT model to STEP, STL and WRL.
 

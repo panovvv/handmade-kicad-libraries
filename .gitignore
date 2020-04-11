@@ -39,3 +39,7 @@ ehthumbs_vista.db
 
 # IntelliJ IDEA files
 .idea/
+
+# FreeCAD project backup
+*.FCStd1
+
